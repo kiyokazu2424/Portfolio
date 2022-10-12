@@ -196,6 +196,7 @@ img {
 }
 
 .works-img img {
+  height: 400px;
   border: 1px solid #e6e6e6;
 }
 
