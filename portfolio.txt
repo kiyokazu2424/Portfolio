@@ -1,0 +1,3 @@
+github　pagesによって作ったポートフォリオ
+デプロイ作業なしで、一般からアクセス可能に
+URL:https://kiyokazu2424.github.io/Portfolio/
